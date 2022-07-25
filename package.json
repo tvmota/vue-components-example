@@ -3,7 +3,6 @@
   "name": "v-components",
   "version": "1.0.0",
   "description": "",
-  "private": true,
   "main": "dist/v-components.ssr.js",
   "browser": "dist/v-components.esm.js",
   "module": "dist/v-components.esm.js",
