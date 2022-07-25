@@ -1,6 +1,6 @@
 
 {
-  "name": "v-components",
+  "name": "vue-components-lib",
   "version": "1.0.0",
   "description": "",
   "main": "dist/v-components.ssr.js",
